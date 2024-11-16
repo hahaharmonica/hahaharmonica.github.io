@@ -39,13 +39,13 @@ Supervisor: Dr. Laurianne Cabrera
 **Research Assistant @ George Washington University (_March 2017 – August 2017_)**  
 - Analyzed child-directed speech to study linguistic diversity and phonological phenomena.  
 
-📝 Publications
+Publications
 ======
-1. Hegde, M., Nazzi, T., & Cabrera, L. (2024). An auditory perspective on phonological development in infancy. *Frontiers in Psychology, 14*, 1321311.  
-2. Hegde, M., Cabrera, L., & Nazzi, T. (2024). Infants’ abilities to segment word forms from spectrally degraded speech. *Developmental Science.*  
-3. Hegde, M., & Cabrera, L. (2024). The neural development of auditory temporal modulation for phonetic perception. *Ear and Hearing.* (Under Review)
-
-For publication details, visit [ResearchGate](#) or [Google Scholar](#).
+<ul>
+  {% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
 
 📢 Conference Presentations
 ======
@@ -59,22 +59,6 @@ For publication details, visit [ResearchGate](#) or [Google Scholar](#).
 - **Languages:** English (Native), French (Professional), Kannada (Conversational)  
 - **Programming and Data Analysis:** Python(Packages: Numpy, Pandas, Matplotlib, MNE), R, MATLAB, SPSS, EEG Analysis (MNE, Biosemi, EGI), Acoustic Signal Processing  
 
-
-Publications
-======
-<ul>
-  {% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
-
-Conference Presentations
-======
-<ul>
-  {% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}
-</ul>
 
 Teaching
 ======
