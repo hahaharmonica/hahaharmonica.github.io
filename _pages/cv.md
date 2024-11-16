@@ -14,9 +14,9 @@ Education
 * Ph.D. in Cognitive Science, Université Paris Cité, 2023 (expected)  
   * Dissertation: *Interaction between speech and auditory processing during early phonological development*
 * M.S. in Cognitive Science (Cogmaster), École Normale Supérieure, 2019  
-  * Concentration: Linguistics | Mention Bien (with Honors)
+  * Concentration: Linguistic,  Mention Bien (with Honors)
 * B.A. in Psychology and French, Wake Forest University, 2014  
-  * Minor: Neuroscience | Cum Laude
+  * Minor: Neuroscience,  Cum Laude
 
 Work Experience
 ======
