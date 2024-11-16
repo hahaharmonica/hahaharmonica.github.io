@@ -21,12 +21,12 @@ repository               : "hahaharmonica.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilephoto.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Amiens, France"
+  employer         : "GRAMFC (Inserm U1105) -- Centre Universitaire de Recherche en Santé"
   uri              : # URL
   email            : "none@example.org" 
 
