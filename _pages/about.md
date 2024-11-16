@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Whale hello there, I'm Monica 🐳"
+title: "Monica Hegde"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Whale hello there, I'm Monica 🐳
+
+
 
 My Research Interests 
 ====
