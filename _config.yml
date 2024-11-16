@@ -22,13 +22,13 @@ repository               : "hahaharmonica.github.io"
 author:
   # Biographic information
   avatar           : "profilephoto.png"
-  name             : "Your Sidebar Name"
+  name             : "Monica Hegde"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Amiens, France"
-  employer         : "GRAMFC (Inserm U1105) -- Centre Universitaire de Recherche en Santé"
+  employer         : "GRAMFC (Inserm U1105)- U Picardie"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "monica.s.hegde@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
