@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Monica Hegde"
+seo_title: "Monica Hegde"
+#title: "Monica Hegde"
 author_profile: true
 redirect_from: 
   - /about/
