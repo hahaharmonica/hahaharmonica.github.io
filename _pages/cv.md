@@ -68,7 +68,7 @@ Publications
   {% endfor %}
 </ul>
 
-Talks
+Conference Presentations
 ======
 <ul>
   {% for post in site.talks reversed %}
@@ -83,8 +83,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
-
-Service and Leadership
-======
-* Presented findings at 10+ conferences, including Society for Neurobiology of Language and ICIS  
-* Mentored undergraduate students in cognitive science research  
