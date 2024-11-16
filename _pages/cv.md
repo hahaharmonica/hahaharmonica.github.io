@@ -12,7 +12,7 @@ redirect_from:
 #### Technical Skills: Python, R, MATLAB, EEG Signal Processing, Acoustic Signal Processing, Statistical Modeling
 
 
-Education
+🎓 Education
 ======
 * Ph.D. in Cognitive Science, Université Paris Cité, 2023 
   * Dissertation: *Interaction between speech and auditory processing during early phonological development*
@@ -21,7 +21,7 @@ Education
 * B.A. in Psychology and French, Wake Forest University, 2014  
   * Minor: Neuroscience,  Cum Laude
 
-Research Experience
+🔬 Research Experience
 ======
 **Ph.D. @ Université Paris Cité (_October 2020 – December 2023_)**  
 Supervisors: Dr. Thierry Nazzi and Dr. Laurianne Cabrera  
@@ -42,19 +42,22 @@ Supervisor: Dr. Laurianne Cabrera
 **Research Assistant @ George Washington University (_March 2017 – August 2017_)**  
 - Analyzed child-directed speech to study linguistic diversity and phonological phenomena.  
 
-## Publications
+📝 Publications
+======
 1. Hegde, M., Nazzi, T., & Cabrera, L. (2024). An auditory perspective on phonological development in infancy. *Frontiers in Psychology, 14*, 1321311.  
 2. Hegde, M., Cabrera, L., & Nazzi, T. (2024). Infants’ abilities to segment word forms from spectrally degraded speech. *Developmental Science.*  
 3. Hegde, M., & Cabrera, L. (2024). The neural development of auditory temporal modulation for phonetic perception. *Ear and Hearing.* (Under Review)
 
 For publication details, visit [ResearchGate](#) or [Google Scholar](#).
 
-## Conference Presentations
+📢 Conference Presentations
+======
 - Spectro-temporal processing of speech during phonological development – LABEX-EFL, 2023  
 - Neural development of auditory temporal modulation – Society for Neurobiology of Language, 2023  
 - Impact of spectrally degraded speech on word segmentation – International Congress of Infant Studies, 2022  
 
-## Skills
+💡 Skills
+======
 - **Experimental Design and Analysis:** EEG signal processing, Acoustic signal processing  
 - **Languages:** English (Native), French (Professional), Kannada (Conversational)  
 - **Programming and Data Analysis:** Python(Packages: Numpy, Pandas, Matplotlib, MNE), R, MATLAB, SPSS, EEG Analysis (MNE, Biosemi, EGI), Acoustic Signal Processing  
