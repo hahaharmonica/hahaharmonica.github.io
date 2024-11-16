@@ -9,8 +9,8 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-Whale hello there 🐳
-====
+*Whale hello there 🐳*
+
 &nbsp;
 &nbsp;
 
