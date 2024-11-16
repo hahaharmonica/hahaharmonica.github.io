@@ -55,7 +55,7 @@ For publication details, visit [ResearchGate](#) or [Google Scholar](#).
 - Impact of spectrally degraded speech on word segmentation – International Congress of Infant Studies, 2022  
 
 ## Skills
--**Experimental Design and Analysis** EEG signal processing, Acoustic signal processing  
+- **Experimental Design and Analysis:** EEG signal processing, Acoustic signal processing  
 - **Languages:** English (Native), French (Professional), Kannada (Conversational)  
 - **Programming and Data Analysis:** Python(Packages: Numpy, Pandas, Matplotlib, MNE), R, MATLAB, SPSS, EEG Analysis (MNE, Biosemi, EGI), Acoustic Signal Processing  
 
