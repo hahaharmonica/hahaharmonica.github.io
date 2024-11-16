@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Whale hello there, I'm Monica 🐳
+**Whale hello there, I'm Monica 🐳**
 
 
 
