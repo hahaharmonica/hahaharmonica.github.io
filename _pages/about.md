@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My Research Interests
+My Research Interests 
 ====
 My research broadly focuses on how the brain processes sounds and how this influences cognitive and language development, particularly during early life and within a developmental framework.
 
